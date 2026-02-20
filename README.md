@@ -5,7 +5,7 @@
 
 <!-- ✨ TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=750&lines=Hi+I'm+Sourav+%F0%9F%92%95;Full+Stack+Developer+%F0%9F%92%BB;AI%2FML+Explorer+%F0%9F%A4%96;Building+Powerful+Projects+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=750&lines=Hi+I'm+Sourav;Full+Stack+Developer+%F0%9F%92%BB;AI%2FML+Explorer+%F0%9F%A4%96;Building+Powerful+Projects+%F0%9F%9A%80" />
 </p>
 
 <h3 align="center">✨ B.Tech IT | 💻 Full Stack Developer | 🤖 AI/ML Explorer ✨</h3>
@@ -13,12 +13,12 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Energy-100%25-ff69b4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Coding%20Level-Advanced-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Vibe-Cute%20%2B%20Serious-ffb6c1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vibe-Serious-ffb6c1?style=for-the-badge" />
 </p>
 
 ---
 
-## 🌸 About Me
+##  About Me
 
 Hi 👋  
 
@@ -82,6 +82,6 @@ I’m **Sourav Kumar**, a B.Tech student in Information Technology who loves bui
 </p>
 
 <p align="center">
-💖 <b>Cute Outside. Elite Developer Inside.</b> 💖  
+ <b>Elite Developer Inside.</b> 
 🌸 Code. Slay. Repeat. 🌸
 </p>
