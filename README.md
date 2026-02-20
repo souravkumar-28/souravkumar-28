@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Hi+I'm+Sourav;Full+Stack+Developer;AI%2FML+Explorer+%F0%9F%A4%96;Building+Cute+But+Powerful+Projects+%F0%9F%92%BB" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Hi+I'm+Sourav;Full+Stack+Developer;AI%2FML+Explorer+%F0%9F%A4%96;Building+Powerful+Projects+%F0%9F%92%BB" />
 </p>
 
 <h1 align="center"> Sourav Kumar </h1>
@@ -13,7 +13,7 @@
 
 ---
 
-## 🌸 About Me
+##  About Me
 
 Hi   
 
