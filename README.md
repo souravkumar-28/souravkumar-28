@@ -1,66 +1,81 @@
-<h1 align="center">Hi 👋, I'm Sourav Kumar</h1>
-<h3 align="center">B.Tech IT Student | Full Stack Developer | AI/ML Explorer</h3>
+<h1 align="center">⚡ Sourav Kumar ⚡</h1>
+<h3 align="center">🚀 Full Stack Developer | 🤖 AI/ML Explorer | 🧠 Problem Solver</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/3rd%20Year-B.Tech%20IT-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%2B%20AI-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Dhanbad-success?style=for-the-badge" />
+</p>
 
 ---
 
-## 💫 About Me
+## 🔥 About Me
 
-Hi, I’m **Sourav Kumar**, a B.Tech student in **Information Technology** and a passionate developer who loves building practical tech solutions.  
+I’m a passionate **B.Tech Information Technology student** who loves building impactful, real-world tech solutions.
 
-I enjoy working across **Web Development, Java, and Problem-Solving**, and I’m currently exploring **AI/ML through real-world projects**.
+💡 I work across **Web Development, Java, Backend Systems, and Problem Solving**,  
+and I’m currently diving deep into **AI/ML model development from scratch**.
 
-### 🚀 Projects & Experience
-
-- 🤖 AI-based Skin Condition Detection Web App  
-- 💬 Custom Chatbots for Automation and Support  
-- 🌐 Firebase-powered Student Resource Platforms  
-- 🧠 Algorithms & Backtracking (N-Queens, 8-Queens, etc.)  
-- ⚙️ Hardware Projects using Arduino  
-
-I also served as a **Campus Ambassador for IIT Kharagpur’s Kshitij 2024**, which helped me grow my leadership and communication skills.
-
-I strongly believe in **learning by building**, contributing to open-source, and continuously improving my skills to create meaningful and scalable solutions.
+I believe in:
+- 🛠 Building over just watching tutorials  
+- 📈 Continuous skill improvement  
+- 🌍 Creating scalable & meaningful products  
 
 ---
 
-## 🌐 Socials
+## 🚀 Featured Work
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/souravkumar28)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sourav280106@gmail.com)
-
----
-
-## 💻 Tech Stack
-
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+- 🤖 **AI-based Skin Condition Detection Web App**
+- 💬 **Custom Automation Chatbots**
+- 🌐 **Firebase-powered Student Resource Platform**
+- 🧠 **Advanced DSA & Backtracking (N-Queens, 8-Queens)**
+- ⚙️ **Arduino-based Hardware Projects**
+- 🎤 **Campus Ambassador – IIT Kharagpur Kshitij 2024**
 
 ---
 
-## 📊 GitHub Stats
+## 🌐 Connect With Me
 
-![](https://github-readme-stats.vercel.app/api?username=souravkumar-28&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+<p align="center">
+<a href="https://linkedin.com/in/souravkumar28">
+<img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="mailto:sourav280106@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
+</a>
+</p>
 
-![](https://nirzak-streak-stats.vercel.app/?user=souravkumar-28&theme=dark&hide_border=false)
+---
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=souravkumar-28&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 💻 Tech Arsenal
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python,bootstrap,firebase,mongodb,mysql,git,github,vercel,netlify,figma" />
+</p>
+
+---
+
+## 📊 GitHub Performance
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=souravkumar-28&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=souravkumar-28&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souravkumar-28&theme=tokyonight&hide_border=true&layout=compact"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=souravkumar-28&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
 <p align="center">
-  🚀 <b>Code • Build • Improve • Repeat</b>
+🔥 <b>"I don’t just write code. I build solutions."</b> 🔥
 </p>
