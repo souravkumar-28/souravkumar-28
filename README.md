@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Hi+I'm+Sourav+%F0%9F%92%95;Full+Stack+Pookie+Developer;AI%2FML+Explorer+%F0%9F%A4%96;Building+Cute+But+Powerful+Projects+%F0%9F%92%BB" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Hi+I'm+Sourav+%F0%9F%92%95;Full+Stack+Developer;AI%2FML+Explorer+%F0%9F%A4%96;Building+Cute+But+Powerful+Projects+%F0%9F%92%BB" />
 </p>
 
-<h1 align="center">💖 Sourav Kumar 💖</h1>
+<h1 align="center"> Sourav Kumar </h1>
 <h3 align="center">✨ B.Tech IT | 💻 Full Stack Developer | 🤖 AI/ML Explorer ✨</h3>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ## 🌸 About Me
 
-Hi bestie 💅  
+Hi   
 
 I’m **Sourav Kumar**, a B.Tech Information Technology student who loves building real-world tech solutions with ✨ style ✨.
 
@@ -31,7 +31,7 @@ I believe in:
 
 ---
 
-## 💅 Pookie Projects
+## 💅  Projects
 
 - 🤖 AI-based Skin Condition Detection Web App  
 - 💬 Custom Automation Chatbots  
@@ -41,7 +41,7 @@ I believe in:
 
 ---
 
-## 🌷 Tech Stack But Make It Cute
+## 🌷 Tech Stack 
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,java,python,bootstrap,firebase,mongodb,mysql,git,github,vercel,netlify,figma&theme=light" />
@@ -58,7 +58,7 @@ I believe in:
 
 ---
 
-## 💌 Connect With Me
+##  Connect With Me
 
 <p align="center">
 <a href="https://linkedin.com/in/souravkumar28">
@@ -72,7 +72,7 @@ I believe in:
 ---
 
 <p align="center">
-💖 <b>Cute Outside. Elite Developer Inside.</b> 💖
+ <b> Elite Developer Inside.</b> 
 </p>
 
 <p align="center">
