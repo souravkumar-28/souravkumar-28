@@ -1,10 +1,10 @@
-<!-- 🌸 HEADER WAVE BACKGROUND -->
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:8a2be2&height=220&section=header&text=Sourav%20Kumar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-<!-- ✨ TYPING ANIMATION -->
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=750&lines=Hi+I'm+Sourav;Full+Stack+Developer+%F0%9F%92%BB;AI%2FML+Explorer+%F0%9F%A4%96;Building+Powerful+Projects+%F0%9F%9A%80" />
 </p>
@@ -77,9 +77,8 @@ I’m **Sourav Kumar**, a B.Tech student in Information Technology who loves bui
 
 ---
 
-<!-- 🌸 FOOTER WAVE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9a9e,100:fad0c4&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:8a2be2&height=120&section=footer"/>
 </p>
 
 <p align="center">
