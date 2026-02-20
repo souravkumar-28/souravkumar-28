@@ -1,6 +1,7 @@
 <!-- 🌸 HEADER WAVE BACKGROUND -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9a9e,100:fad0c4&height=200&section=header&text=Sourav%20Kumar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:8a2be2&height=220&section=header&text=Sourav%20Kumar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <!-- ✨ TYPING ANIMATION -->
@@ -20,7 +21,7 @@
 
 ##  About Me
 
-Hi 👋  
+
 
 I’m **Sourav Kumar**, a B.Tech student in Information Technology who loves building real-world tech solutions with clarity, creativity, and purpose.
 
@@ -83,5 +84,7 @@ I’m **Sourav Kumar**, a B.Tech student in Information Technology who loves bui
 
 <p align="center">
  <b>Elite Developer Inside.</b> 
-🌸 Code. Slay. Repeat. 🌸
+<p align="center">
+⚡ <b>Full Stack Mindset. AI-Driven Future.</b> ⚡
+</p>
 </p>
