@@ -31,7 +31,7 @@ I believe in:
 
 ---
 
-## 💅  Projects
+##   Projects
 
 - 🤖 AI-based Skin Condition Detection Web App  
 - 💬 Custom Automation Chatbots  
