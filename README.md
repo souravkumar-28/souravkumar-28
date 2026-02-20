@@ -6,7 +6,7 @@
 <h3 align="center">✨ B.Tech IT | 💻 Full Stack Developer | 🤖 AI/ML Explorer ✨</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Pookie%20Energy-100%25-ff69b4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Energy-100%25-ff69b4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Coding%20Level-Dangerous-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Vibe-%20Serious-ffb6c1?style=for-the-badge" />
 </p>
